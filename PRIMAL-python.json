@@ -1,9 +1,9 @@
 {
   "format": "holti-python-v1",
   "variant": "PRIMAL",
-  "version": "2026.11.11.4",
-  "package_url": "https://github.com/gugigaa1/holti-2026-updates/releases/download/python-v2026.11.11.4/update_package_PRIMAL.zip",
-  "package_sha256": "3394d46cbc12fb3535553b05af60007cff8210048125fc9a8e948985750ca7fb",
+  "version": "2026.11.11.7",
+  "package_url": "https://github.com/gugigaa1/holti-2026-updates/releases/download/python-v2026.11.11.7/update_package_PRIMAL.zip",
+  "package_sha256": "bfc5573b61dee796f0861b0a01f9be68a3c4f33c42691da6b88301a56e010c02",
   "files": [
     {
       "path": "primal_rotation.py",
@@ -17,8 +17,8 @@
     },
     {
       "path": "game_assistant.py",
-      "sha256": "e66fe540f324cd80cb45f1bc92ed9b2b6f9b5ba302cbceb3221b8d7d06e94e90",
-      "size": 657938
+      "sha256": "172009aff5dd80c7659ce6ece10020892a5ff081497a21a5491a1b0d5bb3bd37",
+      "size": 658559
     },
     {
       "path": "simple_assistant.py",

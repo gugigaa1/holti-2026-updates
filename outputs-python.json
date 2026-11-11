@@ -1,14 +1,14 @@
 {
   "format": "holti-python-v1",
   "variant": "outputs",
-  "version": "2026.11.11.6",
-  "package_url": "https://github.com/gugigaa1/holti-2026-updates/releases/download/python-v2026.11.11.6/update_package_outputs.zip",
-  "package_sha256": "300a33eb1e60074d21941b710d7eb39a522f5a7a5c3672c641b7c17458d0e8bd",
+  "version": "2026.11.11.7",
+  "package_url": "https://github.com/gugigaa1/holti-2026-updates/releases/download/python-v2026.11.11.7/update_package_outputs.zip",
+  "package_sha256": "32a973caba22ebb3d702b3adac2d4ab7586d96becd504789f695434aa13c619a",
   "files": [
     {
       "path": "game_assistant.py",
-      "sha256": "d636781a87e38f558e9c17ae4191d79b241c39f966c65eee4cfb492527b75df4",
-      "size": 660536
+      "sha256": "10ede02f3176ea90183e4ad00086c0ce3fe4ab00e5db8546c770bbe1205aba3e",
+      "size": 661157
     },
     {
       "path": "simple_assistant.py",
