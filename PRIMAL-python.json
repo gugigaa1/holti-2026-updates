@@ -1,0 +1,144 @@
+{
+  "format": "holti-python-v1",
+  "variant": "PRIMAL",
+  "version": "2026.11.11.3",
+  "package_url": "https://github.com/gugigaa1/holti-2026-updates/releases/download/python-v2026.11.11.3/update_package_PRIMAL.zip",
+  "package_sha256": "9de082af2579d4ab3f3f8e6e40397274c391734cb866503658ed29cfb0432632",
+  "files": [
+    {
+      "path": "primal_rotation.py",
+      "sha256": "739b6ddf5f62f016f13b501c5426dbb5053179ca62badd457bea2e2a4e8e2272",
+      "size": 48727
+    },
+    {
+      "path": "primal_corpse.py",
+      "sha256": "1cbc737692999d1a5295c8ec1bf25950aabb90c32dc9d0f6a2383034ebac358a",
+      "size": 5880
+    },
+    {
+      "path": "game_assistant.py",
+      "sha256": "89da27387c744f68585467ab3a28f3534d976c47f653fc2e54361836c7c08a6c",
+      "size": 656904
+    },
+    {
+      "path": "simple_assistant.py",
+      "sha256": "98ff7b53c0e93764aa22ae7bbfed01a082a38508acf5bae202a5a47a7ed50351",
+      "size": 23741
+    },
+    {
+      "path": "iniciar_assistente_simples.bat",
+      "sha256": "664c417319a2229adcdb3b4d700ad582224b862ffb7c21c04e3de6617538c3f8",
+      "size": 774
+    },
+    {
+      "path": "launcher_updater.py",
+      "sha256": "d5f5f83c4185892a6d78d5cef3e02bef5fbe02ec9aa2e64a29d95efff3edd345",
+      "size": 23819
+    },
+    {
+      "path": "criar_update_para_outros_pcs.py",
+      "sha256": "758fc3a3163afedfd1cb2e720ddc419a7e01301ad41dbaace5645e013dd06be9",
+      "size": 2784
+    },
+    {
+      "path": "criar_update_para_outros_pcs.bat",
+      "sha256": "5592863f51f300a44e7bcecb759772cf17a0bab8ee445a538d081a7b7b5cf2ec",
+      "size": 69
+    },
+    {
+      "path": "aplicar_update_recebido.py",
+      "sha256": "9d46e0272d4889801020ea4e119a28352702abc31d2125ef14bd5024a18a916a",
+      "size": 3671
+    },
+    {
+      "path": "aplicar_update_recebido.bat",
+      "sha256": "074721257053d0af8d38472bd38abf0ebdbb51ba09182e75b07438dea72e74a8",
+      "size": 64
+    },
+    {
+      "path": "gerar_manifest_update.py",
+      "sha256": "de589a1c9d7117269d806cbe3e5e8b8d45292ddd29a29f9e62fa330edc41aed5",
+      "size": 2734
+    },
+    {
+      "path": "gerar_manifest_update.bat",
+      "sha256": "932c4b5ffd4ef1d7edce6c8d46b18eb8360c885455f303527cd9454ead233c73",
+      "size": 183
+    },
+    {
+      "path": "gerar_atualizacao_manual.py",
+      "sha256": "1931f35d200e2a3b3b7f47ad50eb220ef87eea81c3689335fc67a2d419e7fd4c",
+      "size": 1676
+    },
+    {
+      "path": "gerar_atualizacao_manual.bat",
+      "sha256": "285c0d77a4e94791cf8bb939cc703515a1bbb4a5f2e01f54c29387d821a71b96",
+      "size": 65
+    },
+    {
+      "path": "iniciar_launcher.bat",
+      "sha256": "f7761e0af8cfc07f3e4fad92944f93bcf65c576553fc708c46497825d7cc778e",
+      "size": 396
+    },
+    {
+      "path": "iniciar_launcher_admin.bat",
+      "sha256": "bbfbe640d1b173d17bfd90dd14fcccdcdeedaa0ce05e2d3cf29f1fd6b03408b4",
+      "size": 165
+    },
+    {
+      "path": "iniciar_assistente.bat",
+      "sha256": "5838c62d3a9256dd269338aeb4188fd6bb3e5b66f79a031d7f1971f20d2096c3",
+      "size": 539
+    },
+    {
+      "path": "iniciar_assistente_console.bat",
+      "sha256": "44fa76d8a84cc861b32c47130273003fbc9f0743e7cb381de0d2d34932d0d858",
+      "size": 337
+    },
+    {
+      "path": "iniciar_como_administrador.bat",
+      "sha256": "cf848821c1f86ca57b731ce35c63c6c48d9315e60f26e5ad6dcc78df42a94d3f",
+      "size": 175
+    },
+    {
+      "path": "instalar_dependencias.bat",
+      "sha256": "bb2d99f37594bb7ea2636b3bc76d94c90c3b6c37948babbe2c7fedf61282788c",
+      "size": 1292
+    },
+    {
+      "path": "instalar_ocr_nativo.py",
+      "sha256": "e722a5ca300fa02a35acf6eb80195dc5a2529e20b08938fcc71c7f08d6a182c3",
+      "size": 4285
+    },
+    {
+      "path": "criar_pacote_portatil.bat",
+      "sha256": "e9f703ff43d4cdd020ccce5dd08c93ef8e9e052715136127817c85b42ee2df0e",
+      "size": 525
+    },
+    {
+      "path": "build_portable.py",
+      "sha256": "a7de44dfac58efdf5a8cf395aceccd38c9c01d7d491753cc00322f2f46fedd37",
+      "size": 6572
+    },
+    {
+      "path": "README_game_assistant.md",
+      "sha256": "a7f98d4723f184100ddaabd4a6b91ad89c4ad64781236202caf0a419dfffe597",
+      "size": 98152
+    },
+    {
+      "path": "README_ATUALIZADOR.md",
+      "sha256": "f9efa97ec05910073c545de2527c840346ed68fbc5607cfb5901c7ff4f51df2c",
+      "size": 1260
+    },
+    {
+      "path": "LEIA-ME_ABRIR_SEM_PYTHON.md",
+      "sha256": "92a5c73f5299166a6bfd77ce8a65fa8a4963a78882fc8db6ee07105b6523d889",
+      "size": 834
+    },
+    {
+      "path": "LEIA_ME_ATUALIZACAO_MANUAL.txt",
+      "sha256": "ed4e7a6588077b007c9b0ff7595a838395b489fd7492a54bc307a82a83560153",
+      "size": 775
+    }
+  ]
+}
