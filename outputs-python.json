@@ -1,14 +1,14 @@
 {
   "format": "holti-python-v1",
   "variant": "outputs",
-  "version": "2026.11.11.12",
-  "package_url": "https://github.com/gugigaa1/holti-2026-updates/releases/download/python-v2026.11.11.12/update_package_outputs.zip",
-  "package_sha256": "006696606dd62914a34bdd5c684372af4b50f9327ebe26cbb43190d9e9f7efe7",
+  "version": "2026.11.12.1",
+  "package_url": "https://github.com/gugigaa1/holti-2026-updates/releases/download/python-v2026.11.12.1/update_package_outputs.zip",
+  "package_sha256": "32ee08d15f7414286bee2d6b2a4cae564114bcee9f612ec5ea6a47ac55edf4e6",
   "files": [
     {
       "path": "game_assistant.py",
-      "sha256": "bdc76fd1a62de8e1b1a4172ed8310b1cb9fe1630d67370ef224fde11d974ae03",
-      "size": 679793
+      "sha256": "cc86d11a8e3819887b74d47b2ebcea31cba42a2b9b1cceb92da4213f837c4d56",
+      "size": 680302
     },
     {
       "path": "simple_assistant.py",
@@ -92,8 +92,8 @@
     },
     {
       "path": "instalar_dependencias.bat",
-      "sha256": "bb2d99f37594bb7ea2636b3bc76d94c90c3b6c37948babbe2c7fedf61282788c",
-      "size": 1292
+      "sha256": "c56bbde1daaed4775f50fb69273138dc4b0fc8470bbe2bb8e22a01711175e06e",
+      "size": 1558
     },
     {
       "path": "instalar_ocr_nativo.py",
@@ -112,8 +112,8 @@
     },
     {
       "path": "README_game_assistant.md",
-      "sha256": "a7e0a7b42fceddb7d417c9bcbf221dee547eb2c3257012baed641ea36f9226f9",
-      "size": 81894
+      "sha256": "508a4c53c35dcf3a1a1f40a20cd898f46f5621d17c4b859ae61d5d717589d70d",
+      "size": 82701
     },
     {
       "path": "README_ATUALIZADOR.md",
