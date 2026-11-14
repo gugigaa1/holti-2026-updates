@@ -1,14 +1,14 @@
 {
   "format": "holti-python-v1",
   "variant": "outputs",
-  "version": "2026.11.13.3",
-  "package_url": "https://github.com/gugigaa1/holti-2026-updates/releases/download/python-v2026.11.13.3/update_package_outputs.zip",
-  "package_sha256": "4e55249b84b52a3e350cb5bb3d2d980e1c532cebf971826bba8772e20bc563df",
+  "version": "2026.11.13.4",
+  "package_url": "https://github.com/gugigaa1/holti-2026-updates/releases/download/python-v2026.11.13.4/update_package_outputs.zip",
+  "package_sha256": "b007799ba9c02c4426e1eb3f9018c9eeae599b403f317831d11c1805d53c824c",
   "files": [
     {
       "path": "game_assistant.py",
-      "sha256": "0e2067f3098c9244be20b56327ddc3392eda109365d29de0ffb2f0b640d7214b",
-      "size": 683570
+      "sha256": "b0a64d36a9f990b8880498ed43f10ac219529c5bcee662efe5e0faeaf431cff3",
+      "size": 684236
     },
     {
       "path": "simple_assistant.py",
@@ -112,8 +112,8 @@
     },
     {
       "path": "README_game_assistant.md",
-      "sha256": "5d69ff6c29a7438f6f3c808f6712fca7836005874c3705e9dc0ad1df88c39399",
-      "size": 86578
+      "sha256": "e8a94e28d19b1ce51621a61bb3189e589baf5007e93a9eca2a3b9afecb4eccdb",
+      "size": 86975
     },
     {
       "path": "README_ATUALIZADOR.md",
