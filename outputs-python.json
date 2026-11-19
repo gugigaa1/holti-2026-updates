@@ -1,14 +1,14 @@
 {
   "format": "holti-python-v1",
   "variant": "outputs",
-  "version": "2026.11.17.2",
-  "package_url": "https://github.com/gugigaa1/holti-2026-updates/releases/download/python-v2026.11.17.2/update_package_outputs.zip",
-  "package_sha256": "244671d12b6d65f156f510fc1fe905c181bb7af6674b8d439260009575bb36e3",
+  "version": "2026.11.19.1",
+  "package_url": "https://github.com/gugigaa1/holti-2026-updates/releases/download/python-v2026.11.19.1/update_package_outputs.zip",
+  "package_sha256": "369ce903bb0e5fcd6232bf02b9f93d57fc51076a4e5be201b94f4d5a29b9aa84",
   "files": [
     {
       "path": "game_assistant.py",
-      "sha256": "4b709608689f1a7a9b31cba142d8345885ea488f38a2cabdb1e153f2dcec9c73",
-      "size": 689131
+      "sha256": "bc455034d5eb2f311a23675fa7cc41b2d90a9aacad6cec2fa4a87e3520af0413",
+      "size": 693636
     },
     {
       "path": "simple_assistant.py",
@@ -22,13 +22,13 @@
     },
     {
       "path": "launcher_updater.py",
-      "sha256": "5f397d4cc811e0cc4bc8588751d54060afd037147e3692657c30605d1b13b7f8",
-      "size": 30503
+      "sha256": "df2a963396bac4291d88f1112306677b0afd598f8447d7710236d31b6707bd29",
+      "size": 32181
     },
     {
       "path": "criar_update_para_outros_pcs.py",
-      "sha256": "4bff3a3ec27e814022b9e23759543b4ff6bd3b6813135008d36227d59d89ca73",
-      "size": 2735
+      "sha256": "42bded09ac28c6037009639c562b671395c4dce8f1efee5bde801dff48c52c6d",
+      "size": 3154
     },
     {
       "path": "criar_update_para_outros_pcs.bat",
@@ -112,13 +112,13 @@
     },
     {
       "path": "README_game_assistant.md",
-      "sha256": "f83bf04b8581fd30284b4e0bfff8cd2003145f521ec25182359cf996de2838a8",
-      "size": 88175
+      "sha256": "a62ccde683dd1d5f52c1f22f0b5bfab1715e1f29321f2dca163b85817643a37e",
+      "size": 89411
     },
     {
       "path": "README_ATUALIZADOR.md",
-      "sha256": "a31380360194570b15de62cd3823a7312f8f4839e6e2a375fd0bae4f4fbe2557",
-      "size": 2550
+      "sha256": "d3fccc063f7d0de6de0adbfa44549af557e9afe68179b3aca96e8dfb98e355ae",
+      "size": 3593
     },
     {
       "path": "LEIA-ME_ABRIR_SEM_PYTHON.md",
